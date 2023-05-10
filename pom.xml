@@ -18,6 +18,7 @@
 
     <modules>
         <module>cb</module>
+        <module>valutes</module>
     </modules>
 
 <!--    <repositories>-->
